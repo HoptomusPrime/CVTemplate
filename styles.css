@@ -9,14 +9,14 @@
 /* Body styles */
 body {
     font-family: MetricHPE, sans-serif;
-    background-color: #752399; /* Light green background */
+    background-color: e2dfe2; /* Light green background */
     color: #c9c5c9;
 }
 
 /* Header styles */
 header {
-    background-color: #330244; /* Green header background */
-    color: #ffffff;
+    background-color: #a14e96; /* Green header background */
+    color: #e2dfe2;
     padding: 20px;
     width: 100%;
     text-align: center;
@@ -47,8 +47,8 @@ nav a {
 }
 
 nav a:hover {
-    color: #752399; /* Light green on hover */
-}c:\Users\hopley\Pictures\Camera Roll\Moustache.jpeg
+    color: #a14e96; /* Light green on hover */
+}
 
 /* Section styles */
 section {
@@ -63,7 +63,8 @@ section {
 section h2 {
     font-size: 1.8rem;
     margin-bottom: 20px;
-    color: #f3e9f5; /* Dark green for section headings */
+    color: #a14e96; /* Dark green for section headings */
+    text-align: center;
 }
 
 /* Education styles */
@@ -143,7 +144,7 @@ nav ul.active li {
 /* CSS for animations */
 .button {
     background-color: #333;
-    color: #fff;
+    color: #0f1010;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
